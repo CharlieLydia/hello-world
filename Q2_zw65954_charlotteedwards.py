@@ -1,7 +1,4 @@
-"""
-TM112 21D TMA03 Q2 starter code
-TM112 Module Team 17/12/2020
-"""
+
 
 from random import *
 
@@ -60,7 +57,7 @@ def show_flashcard():
 
 
 
-# DO NOT CHANGE ANYTHING IN THE NEXT SECTION    
+ 
 
 # Set up the glossary
 
